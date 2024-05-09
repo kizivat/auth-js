@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.64.3](https://github.com/supabase/auth-js/compare/v2.64.2...v2.64.3) (2024-05-09)
+
+
+### Bug Fixes
+
+* limit proxy session warning to once per client instance ([#900](https://github.com/supabase/auth-js/issues/900)) ([4ecfdda](https://github.com/supabase/auth-js/commit/4ecfdda65188b71322753e57622be8eafe97ed6b))
+
 ## [2.64.2](https://github.com/supabase/auth-js/compare/v2.64.1...v2.64.2) (2024-05-03)
 
 
